@@ -1,8 +1,5 @@
 [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/gitpitch/the-template)
 
-# GitPitch - The Template
+# Slides
 
-*THE FASTEST WAY FROM IDEA TO PRESENTATION*
-
-For details, see the complete template documentation [here](https://gitpitch.com/docs/the-template).
-
+A Couple of presentations, go to https://gitpitch.com/johanburati/slides/test
